@@ -9,7 +9,7 @@ module.exports = {
         // Style
         'array-bracket-newline': [
             'error',
-            { 'multiline': true }
+            {'multiline': true}
         ],
         'array-bracket-spacing': 'error',
         'block-spacing': 'error',
@@ -24,7 +24,7 @@ module.exports = {
         'func-style': [
             'error',
             'declaration',
-            { 'allowArrowFunctions': true }
+            {'allowArrowFunctions': true}
         ],
         'function-paren-newline': 'error',
         'implicit-arrow-linebreak': 'error',
@@ -39,7 +39,7 @@ module.exports = {
         'max-len': [
             'error',
             {
-                'code': 100,
+                'code': 180,
                 'ignoreStrings': true
             }
         ],
@@ -53,7 +53,7 @@ module.exports = {
         'no-mixed-operators': 'error',
         'no-multiple-empty-lines': [
             'error',
-            { 'max': 1 }
+            {'max': 1}
         ],
         'no-nested-ternary': 'error',
         'no-new-object': 'error',
@@ -61,13 +61,13 @@ module.exports = {
         'no-trailing-spaces': 'error',
         'no-underscore-dangle': [
             'error',
-            { 'allowAfterThis': true }
+            {'allowAfterThis': true}
         ],
         'no-unneeded-ternary': 'error',
         'no-whitespace-before-property': 'error',
         'object-curly-newline': [
             'error',
-            { 'multiline': true }
+            {'multiline': true}
         ],
         'object-curly-spacing': [
             'error',
