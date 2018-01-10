@@ -2,3 +2,4 @@
 node_modules/
 util/config.js
 coverage/
+.idea
